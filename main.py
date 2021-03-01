@@ -342,4 +342,4 @@ def delete_image_cover(cover_id: int = Form(...), Authorization: Optional[str] =
 
 if __name__ == '__main__':
     # initial app
-    uvicorn.run("dharma:app", host="127.0.0.1", port=8080)
+    uvicorn.run("main:app", host="127.0.0.1", port=8080)
