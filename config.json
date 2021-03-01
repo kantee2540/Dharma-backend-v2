@@ -1,4 +1,8 @@
 {
   "resource_directory": "/users/omp/desktop/dharma_files",
-  "client_id": "dharma51848406"
+  "client_id": "dharma51848406",
+  "host_database": "localhost",
+  "database": "Dharma",
+  "user": "root",
+  "password": ""
 }
